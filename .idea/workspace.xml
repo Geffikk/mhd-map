@@ -108,9 +108,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
+=======
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+>>>>>>> Stashed changes
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="recentsLimit" value="5" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -230,11 +235,15 @@
       </map>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     <state x="249" y="0" key="SettingsEditor" timestamp="1587142619865">
       <screen x="0" y="0" width="1536" height="824" />
@@ -273,6 +282,12 @@
       <screen x="366" y="-1024" width="1218" height="1024" />
     </state>
     <state x="671" y="-690" key="com.intellij.ide.util.TipDialog/62.0.1474.864/366.-1024.1218.1024@366.-1024.1218.1024" timestamp="1587117068812" />
+>>>>>>> Stashed changes
+=======
+    <state x="2360" y="94" key="SettingsEditor" timestamp="1587143173337">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="94" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587143173337" />
 >>>>>>> Stashed changes
   </component>
 </project>
