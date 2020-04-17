@@ -21,9 +21,13 @@
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +81,8 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
@@ -107,6 +113,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -199,8 +206,13 @@
       <option name="presentableId" value="Default" />
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
+<<<<<<< Updated upstream
       <workItem from="1587113224053" duration="272000" />
       <workItem from="1587142572670" duration="235000" />
+=======
+      <workItem from="1587113224053" duration="1280000" />
+      <workItem from="1587117067481" duration="564000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
@@ -223,6 +235,7 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< Updated upstream
     <state x="249" y="0" key="SettingsEditor" timestamp="1587142619865">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -231,5 +244,35 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2659" y="360" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587142720621" />
+=======
+    <state x="755" y="-759" key="FileChooserDialogImpl" timestamp="1587113883097">
+      <screen x="366" y="-1024" width="1218" height="1024" />
+    </state>
+    <state x="755" y="-759" key="FileChooserDialogImpl/62.0.1474.864/366.-1024.1218.1024@366.-1024.1218.1024" timestamp="1587113883097" />
+    <state width="1174" height="271" key="GridCell.Tab.0.bottom" timestamp="1587114504585">
+      <screen x="366" y="-1024" width="1218" height="1024" />
+    </state>
+    <state width="1174" height="271" key="GridCell.Tab.0.bottom/62.0.1474.864/366.-1024.1218.1024@366.-1024.1218.1024" timestamp="1587114504585" />
+    <state width="1174" height="271" key="GridCell.Tab.0.center" timestamp="1587114504585">
+      <screen x="366" y="-1024" width="1218" height="1024" />
+    </state>
+    <state width="1174" height="271" key="GridCell.Tab.0.center/62.0.1474.864/366.-1024.1218.1024@366.-1024.1218.1024" timestamp="1587114504585" />
+    <state width="1174" height="271" key="GridCell.Tab.0.left" timestamp="1587114504585">
+      <screen x="366" y="-1024" width="1218" height="1024" />
+    </state>
+    <state width="1174" height="271" key="GridCell.Tab.0.left/62.0.1474.864/366.-1024.1218.1024@366.-1024.1218.1024" timestamp="1587114504585" />
+    <state width="1174" height="271" key="GridCell.Tab.0.right" timestamp="1587114504585">
+      <screen x="366" y="-1024" width="1218" height="1024" />
+    </state>
+    <state width="1174" height="271" key="GridCell.Tab.0.right/62.0.1474.864/366.-1024.1218.1024@366.-1024.1218.1024" timestamp="1587114504585" />
+    <state x="476" y="-882" key="SettingsEditor" timestamp="1587113911025">
+      <screen x="366" y="-1024" width="1218" height="1024" />
+    </state>
+    <state x="476" y="-882" key="SettingsEditor/62.0.1474.864/366.-1024.1218.1024@366.-1024.1218.1024" timestamp="1587113911025" />
+    <state x="671" y="-690" key="com.intellij.ide.util.TipDialog" timestamp="1587117068812">
+      <screen x="366" y="-1024" width="1218" height="1024" />
+    </state>
+    <state x="671" y="-690" key="com.intellij.ide.util.TipDialog/62.0.1474.864/366.-1024.1218.1024@366.-1024.1218.1024" timestamp="1587117068812" />
+>>>>>>> Stashed changes
   </component>
 </project>
